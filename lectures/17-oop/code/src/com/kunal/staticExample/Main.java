@@ -1,4 +1,4 @@
-package com.kunal.staticExample;
+ package com.kunal.staticExample;
 
 public class Main {
     public static void main(String[] args) {
