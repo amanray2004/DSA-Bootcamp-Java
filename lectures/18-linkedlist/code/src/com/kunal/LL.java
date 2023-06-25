@@ -7,9 +7,9 @@ public class LL {
     private int size;
 
     public LL() {
-        this.size = 0;
-        head=null;
-        tail=null;
+        this.size=0;
+        this.head=null;
+        this.tail=null;
     }
 
     public void insertFirst(int val) {
