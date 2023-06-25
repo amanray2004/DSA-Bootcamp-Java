@@ -8,6 +8,8 @@ public class LL {
 
     public LL() {
         this.size = 0;
+        head=null;
+        tail=null;
     }
 
     public void insertFirst(int val) {
